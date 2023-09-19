@@ -1,0 +1,59 @@
+h1{font-size: 70px;
+text-align: center;
+color: #FFFF00;
+text-decoration: underline ;
+}
+
+a{text-decoration: none;
+font-size: 40px;
+background-color: #FFFF00;
+color: aliceblue ;
+border-radius: 15px;
+padding: 10px;
+border:5px inset white;
+text-align: center;
+margin-left: 350px;
+}
+
+body{
+ font-family:Bradley Hand, cursive ;
+    background-image: url(https://img.freepik.com/premium-vector/cute-hearts-and-paws-pattern-background-for-pets_654662-180.jpg?w=360);
+}
+
+.img1{
+    border-radius: 50%;
+}
+
+h2{
+    text-align: center;
+    font-size: 35px;
+    color: rgb(199, 140, 255);
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.img3{
+    float: right;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+li{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.img4{
+    float: right;
+    border-radius: 15px;
+    padding: 25px;
+}
+
+footer p {
+    font-size: 25px;
+    text-align: center;
+    color: rgb(199, 140, 255) ;
+}
